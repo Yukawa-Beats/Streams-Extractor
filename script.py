@@ -31,7 +31,7 @@ See <i>help</i> for more details.
 
     ABOUT_MSG = """⭕️<b>My Name : YB Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @ybdemochannel  
+⭕️<b>Creater :</b> <a href='https://t.me/ybdemochannel'>YUKAWA BEATS</a>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
