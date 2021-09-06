@@ -25,7 +25,7 @@
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
 
 
-###### Installation
+## Installation
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/Streams-Extractor)
