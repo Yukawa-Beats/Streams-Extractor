@@ -18,7 +18,7 @@
   </a>  
 </p>
 
-[![YUKAWA BEATS](https://img.shields.io/badge/YUKAWA BEATS-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ybdemochannel)  
+[![YUKAWA BEATS](https://img.shields.io/badge/YUKAWABEATS-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ybdemochannel)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
@@ -28,7 +28,7 @@
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+
 
 
 ## Installation
