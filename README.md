@@ -18,19 +18,11 @@
   </a>  
 </p>
 
-<p align="center">
-[![YUKAWA BEATS](https://img.shields.io/badge/YUKAWABEATS-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ybdemochannel)  
-</p>
-  ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Streams-Extractor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Streams-Extractor)
+[![YUKAWA BEATS](https://img.shields.io/badge/YUKAWABEATS-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/ybdemochannel)
 
 
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
-
-
 
 
 ## Installation
